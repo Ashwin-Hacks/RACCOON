@@ -8,15 +8,15 @@
 
 # $ Features 
 
-# WIFI ATTCKS 🤐
+# $WIFI ATTCKS 🤐
 
-# $The Classic DEAUTH ATTACK With Full Speed 🤤
+# • The Classic DEAUTH ATTACK With Full Speed 🤤
 
-# $BEACON ATTACK👩‍👩‍👦
+# • BEACON ATTACK👩‍👩‍👦
 
-# $DeauthFlood ATTCK🐳
+# • DeauthFlood ATTCK🐳
 
-# IR Attacks 🦑
+# $IR Attacks 🦑
 
 # • TVBGONE ( turn off tv) ☂
 
@@ -24,7 +24,7 @@
 
 # • PROJECTORGONE( for turn off projectorss) ⚓
 
-# 433MHZ ❤
+# $433MHZ ❤
 
 # • Jammer 😁
 
@@ -32,7 +32,7 @@
 
 # • Custom Code Sender 🤐
 
-# Games 🎮
+# $Games 🎮
 
 # • 4 Games are added 
 
