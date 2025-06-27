@@ -54,6 +54,12 @@
 
 # $ Connection FOR Raccoon
 
+_____________________________
+
+# $ ESP8266 PINOUT 
+
+![OIP](https://github.com/user-attachments/assets/e1b7faf9-27c6-490c-99c0-0af797f61002)
+
 ______________________________
 
 # $ OLED DISPLAY 😍
