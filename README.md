@@ -52,6 +52,46 @@
 
 # • Cool animation and Interface 😎
 
+# $ Connection FOR Raccoon
+
+______________________________
+
+# $ OLED DISPLAY
+
+# $SDA = D2
+
+# $SCL = D1
+
+_______________________________
+
+# $ BUTTONS
+
+# $ UP = 14 gpio
+
+# $ DOWN = 12 gpio
+
+# $ SELECT = 13 gpio
+
+_______________________________
+
+# $ IRLED 
+
+# $ GND TO GND
+
+# $ POSITIVE TO 15 gpio
+
+___________________________________
+
+# $ 433MHZ
+
+# $ GND TO GND
+
+# $ POSITIVE TO POSITIVE
+
+# $ SIGNAL TO 0 gpio
+
+______________________________________
+
 # $ How To Upload The Raccoon in The Esp8266
 
 ________________________________________________
