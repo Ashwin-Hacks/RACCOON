@@ -66,29 +66,28 @@ _______________________________
 
 # $ BUTTONS
 
-# $ UP = 14 gpio
+# $ UP = gpio 14 
 
-# $ DOWN = 12 gpio
+# $ DOWN = gpio 12 
 
-# $ SELECT = 13 gpio
-
+# $ SELECT = gpio 13 
 _______________________________
 
 # $ IRLED 
 
-# $ GND TO GND
+# $ GND = GND
 
-# $ POSITIVE TO 15 gpio
+# $ POSITIVE = gpio 15 
 
 ___________________________________
 
 # $ 433MHZ
 
-# $ GND TO GND
+# $ GND = GND
 
-# $ POSITIVE TO POSITIVE
+# $ POSITIVE = POSITIVE
 
-# $ SIGNAL TO 0 gpio
+# $ SIGNAL = gpio 0
 
 ______________________________________
 
@@ -101,4 +100,5 @@ ________________________________________________
 
 # Thats it Enjoy and Use CareFully 
 
+___________________________________________________
 
