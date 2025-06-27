@@ -52,6 +52,13 @@
 
 # • Cool animation and Interface 😎
 
+# $ How To Upload The Raccoon in The Esp8266
 
+________________________________________________
+
+
+# Upload The BinFile into the ESP8266 with The flasher tool i given in the files 👾
+
+# Thats it Enjoy and Use CareFully 
 
 
