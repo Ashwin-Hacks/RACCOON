@@ -134,8 +134,37 @@ In the “Operation” tab, you can now press “Flash” to upload the binary f
 Don’t forget to reset the card so that the upload is taken into account.
 
 ______________________________________
+# $ HOW TO USE OTA UPDATE 🤑
 
-# Upload The BinFile into the ESP8266 with The flasher tool i given in the files 👾
+# $ Step 1 : Create a Folder Named OTA
+
+# $ Step 2 : Create a File Named ( version ) and inside the version file type this ( 1.7 ) and Save inside the OTA Folder
+
+# $ Step 3 : Paste The Bin File Of The Raccoon inside the OTA Folder
+
+![Screenshot 2025-06-27 200008](https://github.com/user-attachments/assets/5eba5df0-99c4-4ca4-8632-5bb01137148f)
+
+Now Install The Python In Your Computer After Install The python Type This In Your COMMAND PROMPT (cmd)
+
+# $ cd Desktop/OTA
+
+# $ (My OTA folder was in The Desktop)
+
+# $ Press Enter Button After Enter Type This
+
+# $ (python -m http.server 80)
+
+___________________________________________________________________________
+
+# $ After This You Started a Server Thats It Now Just GO to The Device Part
+
+# $ Step 1 : Goto Settings => Update => Press Select => Connect with Your Wifi ( Main Thing Just Remove The Password Of YOU WIFI )
+
+# $ Step 2 : After Connecting To your WIFI IT show enter your Ip so Enter your Laptop IP ADDRESS 
+
+# $ Step 3 : AFter Enter Your Ip Address Your Device show Updating 
+
+# $ Make Sure Your Surrounding have one one wifi also thats you else you cant see its updating or not
 
 # Thats it Enjoy and Use CareFully 
 
