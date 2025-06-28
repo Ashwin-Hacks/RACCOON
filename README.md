@@ -154,6 +154,8 @@ ______________________________________
 
 # $ (python -m http.server 80)
 
+![Screenshot 2025-06-27 201755](https://github.com/user-attachments/assets/6a345ee6-0c60-456b-9cca-38feeee44152)
+
 ___________________________________________________________________________
 
 # $ After This You Started a Server Thats It Now Just GO to The Device Part
