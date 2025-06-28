@@ -144,7 +144,7 @@ ______________________________________
 
 ![Screenshot 2025-06-27 200008](https://github.com/user-attachments/assets/5eba5df0-99c4-4ca4-8632-5bb01137148f)
 
-Now Install The Python In Your Computer After Install The python Type This In Your COMMAND PROMPT (cmd)
+# $ Now Install The Python In Your Computer After Install The python Type This In Your COMMAND PROMPT (cmd)
 
 # $ cd Desktop/OTA
 
